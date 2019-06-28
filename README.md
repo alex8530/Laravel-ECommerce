@@ -1,18 +1,10 @@
-[![Issues](https://img.shields.io/github/issues/anilozmen/Laravel-Ecommerce-Iyzico.svg)](https://github.com/anilozmen/Laravel-Ecommerce-Iyzico/issues)
-[![Star](https://img.shields.io/github/stars/anilozmen/Laravel-Ecommerce-Iyzico.svg?style=social&label=Stars)](https://github.com/anilozmen/Laravel-Ecommerce-Iyzico/stargazers)
-[![Follow](https://img.shields.io/github/followers/anilozmen.svg?style=social&label=Follow)](https://github.com/anilozmen/)
-[![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/anilozmen/Laravel-Ecommerce-Iyzico/master/LICENSE)
-
+ 
 
 ![Laravel Ecommerce Iyzico](https://anilozmen.github.io/laravel-ecommerce-iyzico.gif)
-
-
-## Laravel Ecommerce + Iyzico
+ 
 #### Framework Used: Laravel 5.6
 
-Iyzico intigrated e-Commerce system that could be developed easily in simple level.
-
-
+ 
 ### Installation
 1. Clone the repo and `cd` into it.
 2. Open the terminal and write this command `composer install`
@@ -55,15 +47,4 @@ Iyzico intigrated e-Commerce system that could be developed easily in simple lev
 
 ## Template 
 [COLOSHOP](https://colorlib.com/etc/coloshop/index.html#)
- 
-## Do you want to support?
-Why dont you give star to my Github repo and share my repo in social media?
- 
-[Twitter](https://twitter.com/Anilozmenn)  [Website](https://anilozmen.com)
- 
- 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
+  
